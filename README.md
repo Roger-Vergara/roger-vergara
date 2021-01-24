@@ -7,6 +7,9 @@
 
 <img src="https://img.shields.io/badge/-HTML-orange"/> - <img src="https://img.shields.io/badge/-CSS-blue"/> - <img src="https://img.shields.io/badge/-JS-yellow"/> - <img src="https://img.shields.io/badge/-Bootstrap%204-blueviolet"/> - <img src="https://img.shields.io/badge/-React-9cf"/> - <img src="https://img.shields.io/badge/-PHP-blue"/> - <img src="https://img.shields.io/badge/-LARAVEL%207-red"/> - <img src="https://img.shields.io/badge/-SQL-orange"/> - <img src="https://img.shields.io/badge/-PHPMYADMIN-blue"/>
 
+## Otros lenguajes de programación y herramientas que también manejo
+
+<img src="https://img.shields.io/badge/-JAVA-red"/> - <img src="https://img.shields.io/badge/-%20Spring-brightgreen/> - <img src="https://img.shields.io/badge/-PYTHON-blue"/> - <img src="https://img.shields.io/badge/-C%2B%2B-blue"/> - <img src="https://img.shields.io/badge/-C%2B%2B-blue"/>
 
 <!--
 **Roger-Vergara/roger-vergara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
