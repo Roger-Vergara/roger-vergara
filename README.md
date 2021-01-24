@@ -2,18 +2,28 @@
 ## soy un desarrollador web principiante con conocimiento en:
 
 ###### Frontend
+- html5 **- intermedio**       
+- css3 **- intermedio**
+- javaScript **- intermedio**
 
-- html5 > intermedio         - bootstrap 4 > intermedio
-- css3 > intermedio          - react.js > intermedio
-- javaScript > intermedio    - 
-
+###### Frameworks Frontend
+- bootstrap 4 **- intermedio**
+- react.js **- intermedio**
+   
 ###### Backend
+- php **- intermedio**            
+- sql **- intermedio** 
+- mysql **- intermedio**
+- phpmyadmin **- intermedio**
 
-- php > intermedio         - mysql > intermedio 
-- laravel 7  intermedio   - phpmyadmin > intermedio 
-- sql > intermedio  
+###### Frameworks Backend
+- laravel 7 **- intermedio** 
 
-## Otros lenguajes y conocimientos
+## Otros lenguajes y herramientas
+- Java **- intermedio**            
+- Python **- intermedio** 
+- C++ **- intermedio**
+
 
 <!--
 **Roger-Vergara/roger-vergara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
