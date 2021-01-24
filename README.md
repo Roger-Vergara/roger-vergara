@@ -9,7 +9,7 @@
 
 ## Otros lenguajes de programación y herramientas que también manejo a nivel medio
 
-<img src="https://img.shields.io/badge/-JAVA-red"/> - <img src="https://img.shields.io/badge/-%20Spring-brightgreen/"> - <img src="https://img.shields.io/badge/-PYTHON-blue"/> - <img src="https://img.shields.io/badge/-C%2B%2B-blue"/> - <img src="https://img.shields.io/badge/-FLASK-lightgrey"/> 
+<img src="https://img.shields.io/badge/-JAVA-red"/> - <img src="https://img.shields.io/badge/-%20Spring-brightgreen/"> - <img src="https://img.shields.io/badge/-PYTHON-blue"/> - <img src="https://img.shields.io/badge/-FLASK-lightgrey"/> - <img src="https://img.shields.io/badge/-C%2B%2B-blue"/> 
 
 ## Otros lenguajes de programación que manejo a bajo nivel
 <img src="https://img.shields.io/badge/-LUA-blue"/>
