@@ -1,28 +1,7 @@
 ## Hola 👋, mi nombre es Roger Isaac de Abraham Vergara Castillo
 ## soy un desarrollador web principiante con conocimiento en:
 
-###### Frontend
-- html5 **- intermedio**       
-- css3 **- intermedio**
-- javaScript **- intermedio**
-
-###### Frameworks Frontend
-- bootstrap 4 **- intermedio**
-- react.js **- intermedio**
-   
-###### Backend
-- php **- intermedio**            
-- sql **- intermedio** 
-- mysql **- intermedio**
-- phpmyadmin **- intermedio**
-
-###### Frameworks Backend
-- laravel 7 **- intermedio** 
-
-## Otros lenguajes y herramientas
-- Java **- intermedio**            
-- Python **- intermedio** 
-- C++ **- intermedio**
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />]
 
 
 <!--
