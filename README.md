@@ -1,7 +1,7 @@
 ## Hola 👋, mi nombre es Roger Isaac de Abraham Vergara Castillo
 ## soy un desarrollador web principiante con conocimiento en:
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />]
+<a href="www.google.com"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 
 <!--
