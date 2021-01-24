@@ -3,7 +3,9 @@
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/roger-vergara-b7b995204/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vergara.roger/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/roger.vergara.549/)
 
-![estatus](https://github-readme-stats.vercel.app/api?username=roger-vergara)
+## Herramientas para el desarrollo web que manejo:
+
+[<img src="https://img.shields.io/badge/-HTML-orange"/>]
 
 
 <!--
