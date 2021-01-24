@@ -5,7 +5,7 @@
 
 ## Herramientas para el desarrollo web que manejo:
 
-<img src="https://img.shields.io/badge/-HTML-orange"/> - <img src="https://img.shields.io/badge/-CSS-blue"/> - <img src="https://img.shields.io/badge/-JS-yellow"/> - <img src="https://img.shields.io/badge/-Bootstrap-4-blueviolet"/>
+<img src="https://img.shields.io/badge/-HTML-orange"/> - <img src="https://img.shields.io/badge/-CSS-blue"/> - <img src="https://img.shields.io/badge/-JS-yellow"/> - <img src="https://img.shields.io/badge/-Bootstrap%204-blueviolet"/> - <img src="https://img.shields.io/badge/-React-9cf"/> - <img src="https://img.shields.io/badge/-PHP-blue"/> - <img src="https://img.shields.io/badge/-LARAVEL%207-red"/> - <img src="https://img.shields.io/badge/-SQL-orange"/> - <img src="https://img.shields.io/badge/-PHPMYADMIN-blue"/>
 
 
 <!--
