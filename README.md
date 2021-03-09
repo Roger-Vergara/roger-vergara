@@ -5,7 +5,7 @@
 
 ###### Herramientas para el desarrollo web que manejo a nivel alto:
 
-<img src="https://img.shields.io/badge/-HTML-orange"/> - <img src="https://img.shields.io/badge/-CSS-blue"/> - <img src="https://img.shields.io/badge/-JS-yellow"/> - <img src="https://img.shields.io/badge/-Bootstrap%204-blueviolet"/> - <img src="https://img.shields.io/badge/-PHP-blue"/> - <img src="https://img.shields.io/badge/-LARAVEL%207-red"/> - <img src="https://img.shields.io/badge/-SQL-orange"/> - <img src="https://img.shields.io/badge/-PHPMYADMIN-blue"/>
+<img src="https://img.shields.io/badge/-HTML-orange"/> - <img src="https://img.shields.io/badge/-CSS-blue"/> - <img src="https://img.shields.io/badge/-JS-yellow"/> - <img src="https://img.shields.io/badge/-Bootstrap%204-blueviolet"/> - <img src="https://img.shields.io/badge/-PHP-blue"/> - <img src="https://img.shields.io/badge/-LARAVEL%207-red"/> - <img src="https://img.shields.io/badge/-SQL-orange"/> - <img src="https://img.shields.io/badge/-PHPMYADMIN-blue"/> - <img src="https://img.shields.io/badge/-LUA-blue"/>
 
 ###### Otros lenguajes de programación y herramientas que también manejo a nivel medio
 
