@@ -9,7 +9,7 @@
 
 ###### Otros lenguajes de programación y herramientas que también manejo
 
-<img src="https://img.shields.io/badge/-JAVA-red"/> - <img src="https://img.shields.io/badge/-PYTHON-blue"/> - <img src="https://img.shields.io/badge/-LUA-blue"/>
+<img src="https://img.shields.io/badge/-JAVA-red"/>
 
 <!--
 **Roger-Vergara/roger-vergara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
